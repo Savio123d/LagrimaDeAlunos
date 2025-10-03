@@ -1,10 +1,10 @@
-package com.example.lagrima.de.aluno;
+package com.example.Restaurante;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LagrimaDeAlunoApplicationTests {
+class RestauranteApplicationTests {
 
 	@Test
 	void contextLoads() {
